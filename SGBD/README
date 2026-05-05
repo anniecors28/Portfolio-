@@ -1,1 +1,12 @@
+# Curso de Sistemas Gestores de Bases de Datos (SGBD)
 
+## 📘 Descripción
+Recopilación de ejercicios, prácticas y proyectos realizados durante mi aprendizaje en Sistemas Gestores de Bases de Datos.  
+Este espacio reúne actividades de diferentes niveles del curso, incluyendo modelado, normalización, creación de bases de datos y consultas SQL.
+
+## 🧰 Herramientas utilizadas
+- **Draw.io** — para la creación de diagramas entidad-relación (ER)
+- **SQLite** — para la creación y ejecución de bases de datos
+- **MySQL / MariaDB** — para consultas y ejercicios prácticos
+- **SQL Server** — para prácticas de T-SQL
+- **Oracle** — para ejercicios de PL/SQL

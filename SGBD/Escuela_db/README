@@ -1,1 +1,6 @@
 
+Este proyecto corresponde a un primer ejercicio práctico en diseño de bases de datos relacionales, su objetivo es aplicar conceptos fundamentales (entidades, atributos, claves y normalización básica).
+
+Se destaca que se trata de un proceso de introducción, para consolidación de la comprensión de los principios de diseño más que ha cubierto todos los aspectos de una implementación real.
+
+Representa una gestión de pedidos de material para una escuela, y forma parte del proceso de aprendizaje de bases de datos y sirve de base para futuros proyectos de mayor complejidad y optimización.
